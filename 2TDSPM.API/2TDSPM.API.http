@@ -1,0 +1,6 @@
+@_2TDSPM.API_HostAddress = http://localhost:5299
+
+GET {{_2TDSPM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
